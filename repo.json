@@ -3,18 +3,20 @@
     "Author": "Oreo",
     "Name": "GamesNook",
     "InternalName": "GamesNook",
-    "Punchline": "TODO",
-    "Description": "TODO",
-    "RepoUrl": "TODO",
-    "IconUrl": "TODO/raw/refs/heads/main/GamesNook/images/icon.png",
+    "Punchline": "Party game helpers for FFXIV hosts, starting with blackjack.",
+    "Description": "GamesNook is a growing toolbox for FFXIV party hosts. It currently features a full blackjack table, with bingo, truth or dare, and more on the way. Use /gnook to open the window.",
+    "RepoUrl": "https://github.com/devoreofox/GamesNook",
+    "IconUrl": "https://github.com/devoreofox/GamesNook/raw/refs/heads/main/GamesNook/images/icon.png",
     "Tags": [
-      "TODO"
+      "minigame",
+      "utility",
+      "roleplay"
     ],
     "DalamudApiLevel": 15,
-    "AssemblyVersion": "0.0.0.1",
-    "Version": "0.0.0.1",
-    "DownloadLinkInstall": "TODO/releases/latest/download/GamesNook.zip",
-    "DownloadLinkUpdate": "TODO/releases/latest/download/GamesNook.zip",
-    "DownloadLinkTesting": "TODO/releases/latest/download/GamesNook.zip"
+    "AssemblyVersion": "1.0.0.0",
+    "Version": "1.0.0.0",
+    "DownloadLinkInstall": "https://github.com/devoreofox/GamesNook/releases/latest/download/GamesNook.zip",
+    "DownloadLinkUpdate": "https://github.com/devoreofox/GamesNook/releases/latest/download/GamesNook.zip",
+    "DownloadLinkTesting": "https://github.com/devoreofox/GamesNook/releases/latest/download/GamesNook.zip"
   }
 ]
