@@ -52,7 +52,7 @@ Open settings from the **gear icon** in the title bar (or the plugin's config bu
 2. Go to **Dalamud** → **Custom Plugin Repositories**.
 3. Add:
    ```
-   https://github.com/devoreofox/GamesNook/raw/refs/heads/main/repo.json
+   https://raw.githubusercontent.com/devoreofox/GamesNook/refs/heads/main/repo.json
    ```
 4. Open `/xlplugins` in-game and search for **GamesNook**.
 
