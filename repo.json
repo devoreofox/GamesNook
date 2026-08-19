@@ -6,7 +6,7 @@
     "Punchline": "Party game helpers for FFXIV hosts, starting with blackjack.",
     "Description": "GamesNook is a growing toolbox for FFXIV party hosts. It currently features a full blackjack table, with bingo, truth or dare, and more on the way. Use /gnook to open the window.",
     "RepoUrl": "https://github.com/devoreofox/GamesNook",
-    "IconUrl": "https://github.com/devoreofox/GamesNook/raw/refs/heads/main/GamesNook/images/icon.png",
+    "IconUrl": "https://raw.githubusercontent.com/devoreofox/GamesNook/main/GamesNook/images/icon.png",
     "Tags": [
       "minigame",
       "utility",
